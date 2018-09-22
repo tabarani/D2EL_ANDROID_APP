@@ -8,7 +8,7 @@
         version   = "3.5.2">
     <name>D2EL</name>
     <description>D2EL - Desire 2 Elearning app.</description>
-    <author email="wailabualela@gmail.com" href="https://d2el.com/isco">D2EL development team</author>
+    <author email="wailabualela@gmail.com" href="https://d2el.com/moodle">D2EL development team</author>
     
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
         <string>3.5.20</string>
